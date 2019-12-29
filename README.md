@@ -32,3 +32,10 @@ the client can :
     <td>mysql</td>
   </tr>
 </table>
+<h2>download links :</h2>
+<ul>
+  <li><a href="https://www.mongodb.com/download-center">mongodb</a></li>
+  <li><a href="https://nodejs.org/en/">nodejs </a></li>
+  <li><a href="https://expressjs.com/fr/starter/installing.html">express</a></li>
+  <li><a href="https://cli.angular.io">angular</a></li>
+</ul>
